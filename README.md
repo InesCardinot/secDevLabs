@@ -30,6 +30,8 @@ After mitigating a vulnerability, you can send a Pull Request to gently ask the 
 
 ## OWASP Top 10 (2021) apps: 💻
 
+# My changes to mitigate vulnerabilities: https://github.com/InesCardinot/SecDevLabs-vulnerabilitiesmitigates
+
 Disclaimer: You are about to install vulnerable apps in your machine! 🔥
 
 | Vulnerability                                 | Language       | Application                                                                    |
